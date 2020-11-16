@@ -1,0 +1,2416 @@
+aback: 
+abase: abash abate abuse 
+abash: abase awash 
+abate: abase agate 
+abbas: 
+abbey: 
+abbot: 
+abide: abode amide aside 
+abode: abide above anode 
+abort: about amort 
+about: abort 
+above: abode 
+abuse: abase amuse 
+abyss: 
+acorn: adorn scorn 
+acrid: 
+actor: 
+acute: 
+adage: 
+adapt: adept adopt 
+added: 
+addle: 
+adept: adapt adopt 
+adieu: 
+admit: admix 
+admix: admit 
+adobe: adore 
+adopt: adapt adept 
+adore: adobe adorn 
+adorn: acorn adore 
+adult: 
+aegis: 
+affix: 
+afire: 
+afoot: 
+afoul: 
+again: 
+agate: abate agave 
+agave: agate 
+agent: anent 
+agile: 
+aging: 
+agone: agony alone atone 
+agony: agone 
+agree: 
+ahead: 
+aisle: lisle 
+alarm: 
+album: 
+alder: alter elder 
+aleph: 
+alert: avert 
+algae: algal 
+algal: algae 
+alias: 
+alibi: 
+alien: align 
+align: alien 
+alike: alive 
+alive: alike olive 
+allay: alley alloy alway 
+alley: allay alloy 
+allot: allow alloy 
+allow: allot alloy 
+alloy: allay alley allot allow 
+allyl: 
+aloft: 
+aloha: alpha 
+alone: agone along atone clone 
+along: alone among 
+aloof: 
+aloud: cloud 
+alpha: aloha 
+altar: alter 
+alter: alder altar aster 
+alway: allay 
+amass: amiss 
+amaze: 
+amber: ember umber 
+amble: ample 
+amend: 
+amide: abide aside 
+amigo: amino 
+amino: amigo 
+amiss: amass 
+amity: 
+among: along 
+amort: abort 
+ample: amble amply apple 
+amply: ample apply 
+amuse: abuse 
+anent: agent 
+angel: anger 
+anger: angel auger 
+angle: ankle 
+angry: 
+angst: 
+anion: onion union 
+anise: arise 
+ankle: angle 
+annal: annul 
+annex: 
+annoy: 
+annul: annal annum 
+annum: annul 
+anode: abode 
+antic: attic 
+anvil: 
+aorta: 
+apace: space 
+apart: 
+aphid: 
+apple: ample apply 
+apply: amply apple 
+apron: 
+arena: 
+argon: argot arson 
+argot: argon 
+argue: 
+arhat: 
+arise: anise arose 
+aroma: 
+arose: arise prose 
+array: 
+arrow: 
+arson: argon 
+ashen: aspen 
+aside: abide amide 
+askew: 
+aspen: ashen 
+assai: assay 
+assay: assai essay 
+asset: 
+aster: alter ester 
+atlas: 
+atone: agone alone stone 
+attic: antic 
+audio: audit 
+audit: audio 
+auger: anger augur luger 
+augur: auger 
+aural: mural rural 
+auric: 
+avail: 
+avert: alert overt 
+avoid: 
+await: 
+awake: aware awoke 
+award: aware 
+aware: awake award 
+awash: abash 
+awful: 
+awoke: awake 
+axial: 
+axiom: 
+azure: 
+bacon: baron baton 
+badge: barge budge 
+bagel: 
+baggy: boggy buggy 
+baldy: balky balmy bandy bawdy 
+balky: baldy balmy bulky talky 
+balmy: baldy balky 
+balsa: 
+banal: basal canal 
+bandy: baldy bawdy bundy candy dandy handy randy sandy 
+banjo: 
+barge: badge barre large 
+baron: bacon baton boron 
+barre: barge 
+basal: banal basil nasal 
+basic: basil basin basis 
+basil: basal basic basin basis 
+basin: basic basil basis 
+basis: basic basil basin oasis 
+bassi: basso 
+basso: bassi lasso 
+baste: caste haste paste taste waste 
+batch: bitch botch butch catch hatch latch match patch watch 
+bater: cater dater eater hater later mater pater rater tater water 
+bathe: lathe 
+batik: 
+baton: bacon baron 
+bawdy: baldy bandy 
+bayed: 
+bayou: 
+beach: beech belch bench leach peach reach teach 
+beady: heady ready 
+beard: board heard 
+beast: blast boast feast least yeast 
+beaux: 
+bebop: 
+bedim: 
+beech: beach belch bench leech 
+beefy: 
+befit: 
+befog: 
+began: begin begun beman 
+beget: beret beset 
+begin: began begun 
+begun: began begin 
+beige: 
+being: bring 
+belch: beach beech bench 
+belie: belle 
+belle: belie belly 
+belly: belle billy bully jelly kelly 
+below: 
+beman: began reman 
+bench: beach beech belch bunch 
+beret: beget beset buret 
+berne: borne 
+berry: ferry jerry kerry merry terry 
+berth: birth 
+beryl: 
+beset: beget beret 
+betel: bevel bezel 
+bevel: betel bezel level revel 
+bezel: betel bevel 
+bicep: 
+biddy: buddy giddy 
+bigot: 
+bilge: binge bulge 
+billy: belly bully filly hilly rilly silly 
+binge: bilge hinge singe tinge 
+biota: 
+birch: birth bitch 
+birth: berth birch girth mirth 
+bison: boson 
+bitch: batch birch botch butch ditch hitch pitch witch 
+black: blank block flack slack 
+blade: blame blare blaze glade 
+blame: blade blare blaze flame 
+blanc: bland blank 
+bland: blanc blank blend blind blond brand gland 
+blank: black blanc bland blink clank flank plank 
+blare: blade blame blaze flare glare 
+blast: beast blest boast 
+blaze: blade blame blare glaze 
+bleak: bleat break 
+bleat: bleak blest bloat cleat pleat 
+bleed: blend breed 
+blend: bland bleed blind blond 
+bless: blest bliss 
+blest: blast bleat bless 
+blimp: 
+blind: bland blend blink blond 
+blink: blank blind brink clink 
+bliss: bless 
+blitz: 
+bloat: bleat float gloat 
+block: black clock flock 
+bloke: broke 
+blond: bland blend blind blood 
+blood: blond bloom bloop brood flood 
+bloom: blood bloop broom gloom 
+bloop: blood bloom sloop 
+blown: brown clown flown 
+bluet: blunt blurt 
+bluff: fluff 
+blunt: bluet blurt brunt 
+blurb: blurt 
+blurt: bluet blunt blurb 
+blush: brush flush plush 
+board: beard hoard 
+boast: beast blast boost coast roast toast 
+bobby: booby hobby lobby 
+bogey: boggy 
+boggy: baggy bogey buggy foggy soggy 
+bogus: bonus 
+bongo: 
+bonus: bogus 
+bonze: booze 
+booby: bobby booky booty 
+booky: booby booty cooky rooky 
+boost: boast roost 
+booth: booty broth sooth tooth 
+booty: booby booky booth 
+booze: bonze 
+borax: 
+boric: 
+borne: berne 
+boron: baron boson moron 
+bosom: boson 
+boson: bison boron bosom 
+botch: batch bitch butch notch 
+bough: cough dough hough rough sough tough 
+boule: joule 
+bound: found hound mound pound round sound wound 
+bourn: mourn 
+bowel: dowel towel vowel 
+bowie: 
+boyar: 
+brace: bract brake brave grace trace 
+bract: brace brant tract 
+braid: brain brand 
+brain: braid drain grain train 
+brake: brace brave broke drake 
+brand: bland braid brant grand 
+brant: bract brand brunt grant 
+brash: brass brush crash trash 
+brass: brash crass grass 
+brave: brace brake bravo breve crave grave 
+bravo: brave 
+brawl: crawl drawl trawl 
+bread: break bream breed broad dread tread 
+break: bleak bread bream creak freak wreak 
+bream: bread break cream dream 
+breed: bleed bread creed freed greed 
+breve: brave 
+briar: friar 
+bribe: bride brine tribe 
+brick: brink brisk prick trick 
+bride: bribe brine pride 
+brief: grief 
+brine: bribe bride bring brink briny urine 
+bring: being brine brink briny wring 
+brink: blink brick brine bring briny brisk drink 
+briny: brine bring brink 
+brisk: brick brink 
+broad: bread brood 
+broil: 
+broke: bloke brake 
+brood: blood broad brook broom 
+brook: brood broom crook 
+broom: bloom brood brook groom 
+broth: booth froth 
+brown: blown crown drown frown grown 
+bruit: brunt fruit 
+brunt: blunt brant bruit grunt 
+brush: blush brash crush 
+brute: 
+buddy: biddy bundy muddy ruddy 
+budge: badge bulge fudge judge nudge 
+buggy: baggy boggy muggy 
+bugle: 
+build: built guild 
+built: build guilt quilt 
+bulge: bilge budge 
+bulky: balky bully sulky 
+bully: belly billy bulky burly dully fully gully sully 
+bunch: bench butch hunch lunch munch punch 
+bundy: bandy buddy bunny 
+bunny: bundy funny gunny sunny 
+buret: beret burnt burst 
+burly: bully 
+burnt: buret burst 
+burro: 
+burst: buret burnt 
+buses: 
+bushy: mushy 
+butch: batch bitch botch bunch hutch 
+buteo: 
+butte: 
+butyl: 
+buxom: 
+buyer: 
+buzzy: fuzzy 
+bylaw: 
+byway: 
+cabal: canal 
+cabin: 
+cable: fable gable sable table 
+cacao: 
+cache: 
+cacti: 
+caddy: candy daddy paddy 
+cadet: caret 
+cadre: padre 
+cagey: 
+cairn: 
+calla: 
+calve: carve halve salve valve 
+camel: cameo 
+cameo: camel 
+canal: banal cabal 
+candy: bandy caddy canny dandy handy randy sandy 
+canna: canny manna 
+canny: candy canna 
+canoe: canon 
+canon: canoe 
+canst: 
+canto: 
+caper: cater paper taper 
+caret: cadet 
+cargo: 
+carne: carte carve 
+carob: carol 
+carol: carob 
+carry: curry harry marry parry tarry 
+carte: carne carve caste 
+carve: calve carne carte curve 
+caste: baste carte haste paste taste waste 
+catch: batch hatch latch match patch watch 
+cater: bater caper dater eater hater later mater pater rater tater water 
+caulk: 
+cause: pause 
+cavil: civil 
+cease: chase lease tease 
+cedar: 
+chafe: chaff chase 
+chaff: chafe chuff 
+chain: chair 
+chair: chain choir 
+chalk: 
+champ: chomp chump clamp cramp 
+chant: chart 
+chaos: 
+chard: charm chart chord shard 
+charm: chard chart chasm 
+chart: chant chard charm chert 
+chase: cease chafe chasm chose phase 
+chasm: charm chase 
+cheap: cheat 
+cheat: cheap chert chest cleat wheat 
+check: cheek chick chock chuck 
+cheek: check cheer creek 
+cheer: cheek sheer 
+chert: chart cheat chest 
+chess: chest cress 
+chest: cheat chert chess crest 
+chevy: 
+chick: check chink chock chuck click thick 
+chide: chime chine chive 
+chief: thief 
+child: chili chill 
+chili: child chill 
+chill: child chili shill 
+chime: chide chine chive clime crime 
+china: chine chink 
+chine: chide chime china chink chive shine thine whine 
+chink: chick china chine chunk clink think 
+chirp: 
+chive: chide chime chine 
+chock: check chick chuck clock crock shock 
+choir: chair 
+choke: chore chose 
+chomp: champ chump clomp 
+chord: chard chore 
+chore: choke chord chose shore whore 
+chose: chase choke chore close those whose 
+chuck: check chick chock chunk cluck shuck 
+chuff: chaff 
+chump: champ chomp clump crump thump 
+chunk: chink chuck 
+churn: 
+chute: 
+cider: eider 
+cigar: 
+cilia: 
+cinch: conch finch pinch winch 
+circa: 
+civet: covet rivet 
+civic: civil 
+civil: cavil civic 
+claim: 
+clamp: champ clasp clomp clump cramp 
+clang: clank cling clung slang 
+clank: blank clang clink crank flank plank 
+clash: clasp class crash flash slash 
+clasp: clamp clash class 
+class: clash clasp crass glass 
+clean: clear cleat glean 
+clear: clean cleat 
+cleat: bleat cheat clean clear cleft pleat 
+cleft: cleat 
+clerk: 
+click: chick clink clock cluck flick slick 
+cliff: 
+climb: clime 
+clime: chime climb crime slime 
+cling: clang clink clung fling sling 
+clink: blink chink clank click cling 
+cloak: clock croak 
+clock: block chock click cloak cluck crock flock 
+clomp: chomp clamp clump 
+clone: alone close clove crone 
+close: chose clone clove 
+cloth: sloth 
+cloud: aloud clout 
+clout: cloud flout 
+clove: clone close glove 
+clown: blown crown flown 
+cluck: chuck click clock pluck 
+clump: chump clamp clomp crump plump slump 
+clung: clang cling flung slung 
+coach: conch couch poach roach 
+coast: boast roast toast 
+cobra: copra 
+cocky: cooky rocky 
+cocoa: 
+codon: colon 
+colon: codon 
+colza: 
+comet: coset covet 
+comic: conic 
+comma: 
+conch: cinch coach couch 
+coney: honey money 
+conic: comic cynic ionic monic sonic tonic 
+cooky: booky cocky rooky 
+copra: cobra 
+coral: moral 
+corny: horny 
+corps: 
+cosec: coset 
+coset: comet cosec covet 
+cotta: cotty 
+cotty: cotta 
+couch: coach conch cough pouch touch vouch 
+cough: bough couch dough hough rough sough tough 
+could: mould would 
+count: court fount mount 
+coupe: 
+court: count 
+coven: cover covet cozen woven 
+cover: coven covet hover 
+covet: civet comet coset coven cover 
+cowry: dowry 
+coypu: 
+cozen: coven dozen 
+crack: crank crock track wrack 
+craft: croft draft graft kraft 
+cramp: champ clamp crimp crump tramp 
+crane: crank crate crave craze crone 
+crank: clank crack crane drank frank prank 
+crash: brash clash crass crush trash 
+crass: brass class crash cress criss cross grass 
+crate: crane crave craze grate irate orate 
+crave: brave crane crate craze grave 
+crawl: brawl drawl trawl 
+craze: crane crate crave crazy graze 
+crazy: craze 
+creak: break cream creek croak freak wreak 
+cream: bream creak dream 
+credo: 
+creed: breed creek creep cried freed greed 
+creek: cheek creak creed creep 
+creep: creed creek 
+crepe: crept 
+crept: crepe crest crypt 
+cress: chess crass crest criss cross dress press tress 
+crest: chest crept cress crust wrest 
+cried: creed dried fried tried 
+crime: chime clime crimp grime prime 
+crimp: cramp crime crisp crump primp 
+crisp: crimp criss 
+criss: crass cress crisp cross 
+croak: cloak creak crock crook 
+crock: chock clock crack croak crook frock 
+croft: craft 
+crone: clone crane crony drone prone 
+crony: crone irony 
+crook: brook croak crock croon 
+croon: crook crown 
+cross: crass cress criss dross gross 
+crowd: crown 
+crown: brown clown croon crowd drown frown grown 
+crude: 
+cruel: 
+crumb: crump 
+crump: chump clump cramp crimp crumb trump 
+crush: brush crash crust 
+crust: crest crush trust 
+crypt: crept 
+csnet: 
+cubic: 
+culpa: 
+cumin: 
+curia: curie curio 
+curie: curia curio curse curve 
+curio: curia curie 
+curry: carry furry hurry 
+curse: curie curve nurse purse 
+curve: carve curie curse 
+cycad: 
+cycle: 
+cynic: conic 
+daddy: caddy dandy paddy 
+daffy: taffy 
+dairy: daisy fairy hairy 
+daisy: dairy 
+dally: dolly dully rally sally tally wally 
+dance: dunce lance 
+dandy: bandy candy daddy handy randy sandy 
+dater: bater cater deter eater hater later mater pater rater tater water 
+datum: 
+daunt: gaunt haunt taunt vaunt 
+davit: 
+dealt: 
+death: depth heath neath 
+debar: dewar 
+debit: debut demit 
+debug: debut 
+debut: debit debug rebut 
+decal: decay 
+decay: decal decoy decry delay 
+decor: decoy 
+decoy: decay decor decry 
+decry: decay decoy 
+defer: deter refer 
+degas: 
+degum: 
+deify: deity 
+deign: feign reign 
+deity: deify 
+delay: decay 
+delta: 
+delve: 
+demit: debit remit 
+demon: lemon 
+demur: femur 
+dense: sense tense 
+depot: 
+depth: death 
+derby: 
+deter: dater defer meter 
+deuce: douce 
+devil: 
+dewar: debar 
+diary: 
+dicta: 
+diety: dirty ditty piety 
+digit: 
+dingo: dingy lingo 
+dingy: dingo 
+diode: 
+dirge: 
+dirty: diety ditty 
+disco: 
+ditch: bitch hitch pitch witch 
+ditto: ditty 
+ditty: diety dirty ditto kitty nitty witty 
+divan: 
+dizzy: 
+dodge: hodge lodge podge 
+dogma: 
+dolce: douce 
+dolly: dally dully folly golly holly jolly lolly 
+donor: 
+doubt: 
+douce: deuce dolce douse 
+dough: bough cough hough rough sough tough 
+douse: douce house louse mouse rouse 
+dowel: bowel towel vowel 
+dowry: cowry 
+dozen: cozen 
+draft: craft drift graft kraft 
+drain: brain drawn grain train 
+drake: brake drape 
+drama: 
+drank: crank drink drunk frank prank 
+drape: drake grape 
+drawl: brawl crawl drawn trawl 
+drawn: drain drawl drown 
+dread: bread dream dryad tread 
+dream: bream cream dread 
+dress: cress dross press tress 
+dried: cried drier fried tried 
+drier: dried 
+drift: draft 
+drill: droll frill grill trill 
+drink: brink drank drunk 
+drive: drove 
+droll: drill drool troll 
+drone: crone drove prone 
+drool: droll droop 
+droop: drool troop 
+dross: cross dress gross 
+drove: drive drone grove prove 
+drown: brown crown drawn frown grown 
+druid: 
+drunk: drank drink trunk 
+dryad: dread 
+ducat: 
+dully: bully dally dolly fully gully sully 
+dulse: pulse 
+dummy: dumpy gummy mummy rummy 
+dumpy: dummy jumpy lumpy 
+dunce: dance ounce 
+dusky: dusty husky 
+dusty: dusky fusty gusty lusty musty rusty 
+dwarf: 
+dwell: dwelt swell 
+dwelt: dwell swelt 
+dying: hying lying tying vying 
+eager: eater lager 
+eagle: 
+earth: 
+easel: 
+eaten: eater 
+eater: bater cater dater eager eaten enter ester hater later mater pater rater tater water 
+ebony: 
+eclat: 
+edict: evict 
+edify: 
+eerie: 
+egret: 
+eider: cider elder 
+eight: fight light might night right sight tight 
+eject: elect erect 
+elate: elite elute plate slate 
+elbow: 
+elder: alder eider 
+elect: eject erect 
+elegy: 
+elfin: 
+elide: elite elude glide slide 
+elite: elate elide elute 
+elope: slope 
+elude: elide elute etude exude 
+elute: elate elite elude flute 
+elves: 
+embed: ember 
+ember: amber embed umber 
+emcee: 
+empty: 
+endow: 
+enemy: 
+enter: eater ester inter 
+entry: 
+envoy: 
+epoch: 
+epoxy: 
+equal: 
+equip: 
+erase: 
+erect: eject elect 
+erode: 
+error: 
+erupt: 
+essay: assay 
+ester: aster eater enter 
+estop: 
+ether: other 
+ethic: 
+ethos: 
+ethyl: 
+etude: elude exude 
+eucre: lucre 
+evade: 
+event: 
+every: 
+evict: edict 
+evoke: 
+exact: exalt 
+exalt: exact exult 
+excel: expel 
+exert: 
+exile: 
+exist: 
+expel: excel 
+extol: 
+extra: 
+exude: elude etude 
+exult: exalt 
+fable: cable gable sable table 
+facet: 
+facto: 
+faery: fairy fiery 
+faint: feint flint paint saint taint 
+fairy: dairy faery hairy 
+faith: 
+false: 
+fancy: 
+farad: 
+farce: force 
+fatal: fetal natal 
+fatty: natty patty ratty tatty 
+fault: vault 
+fauna: 
+feast: beast least yeast 
+feign: deign reign 
+feint: faint flint 
+felon: melon 
+femur: demur 
+fence: hence pence 
+ferry: berry furry jerry kerry merry terry 
+fetal: fatal metal petal 
+fetch: ketch retch vetch 
+fetid: 
+fetus: 
+fever: lever never rever sever 
+fiche: niche 
+field: fiend wield yield 
+fiend: field 
+fiery: faery 
+fifth: fifty filth 
+fifty: fifth 
+fight: eight light might night right sight tight 
+filch: filth finch milch zilch 
+filet: 
+filly: billy filmy folly fully hilly rilly silly 
+filmy: filly 
+filth: fifth filch tilth 
+final: 
+finch: cinch filch pinch winch 
+finny: funny 
+first: 
+fishy: wishy 
+fjord: 
+flack: black flank flask fleck flick flock slack 
+flail: flair frail 
+flair: flail 
+flake: flaky flame flare fluke slake 
+flaky: flake 
+flame: blame flake flare frame 
+flank: blank clank flack flask flunk frank plank 
+flare: blare flake flame glare 
+flash: clash flask flesh flush slash 
+flask: flack flank flash 
+fleck: flack flick flock 
+fleet: sleet 
+flesh: flash flush fresh 
+flick: click flack fleck flock slick 
+flier: flyer 
+fling: cling flint flung sling 
+flint: faint feint fling flirt glint 
+flirt: flint 
+float: bloat flout gloat 
+flock: block clock flack fleck flick frock 
+flood: blood floor 
+floor: flood flour 
+flora: 
+flour: floor flout 
+flout: clout float flour 
+flown: blown clown frown 
+fluff: bluff 
+fluid: 
+fluke: flake flute 
+flung: clung fling flunk slung 
+flunk: flank flung plunk 
+flush: blush flash flesh plush 
+flute: elute fluke 
+flyer: flier foyer 
+foamy: loamy 
+focal: local vocal 
+focus: hocus locus pocus 
+foggy: boggy soggy 
+foist: moist 
+folio: polio 
+folly: dolly filly fully golly holly jolly lolly 
+foray: forty 
+force: farce forge forte 
+forge: force forgo forte gorge 
+forgo: forge 
+forte: force forge forth forty 
+forth: forte forty north worth 
+forty: foray forte forth 
+forum: 
+found: bound fount hound mound pound round sound wound 
+fount: count found mount 
+fovea: 
+foyer: flyer 
+frail: flail grail trail 
+frame: flame 
+franc: frank 
+frank: crank drank flank franc prank 
+fraud: 
+freak: break creak wreak 
+freed: breed creed freer fried greed 
+freer: freed 
+freon: 
+fresh: flesh 
+friar: briar 
+fried: cried dried freed tried 
+frill: drill grill trill 
+frock: crock flock 
+front: frost 
+frost: front 
+froth: broth 
+frown: brown crown drown flown grown 
+froze: 
+fruit: bruit 
+fudge: budge judge nudge 
+fugal: 
+fugue: 
+fully: bully dully filly folly gully sully 
+fungi: 
+funny: bunny finny gunny sunny 
+furry: curry ferry hurry 
+furze: 
+fussy: fusty pussy 
+fusty: dusty fussy gusty lusty musty rusty 
+fuzzy: buzzy 
+gable: cable fable sable table 
+gaffe: 
+gamin: 
+gamma: mamma 
+gamut: 
+gases: oases 
+gassy: 
+gator: 
+gaudy: 
+gauge: gauze gouge 
+gaunt: daunt grunt haunt taunt vaunt 
+gauss: 
+gauze: gauge 
+gavel: navel ravel 
+gawky: 
+gecko: 
+geese: 
+genie: genii genre 
+genii: genie 
+genre: genie 
+genus: 
+ghost: 
+ghoul: 
+giant: grant 
+gibby: 
+giddy: biddy 
+gimpy: 
+girth: birth mirth 
+given: liven riven 
+glade: blade glare glaze glide grade 
+gland: bland glans grand 
+glans: gland glass 
+glare: blare flare glade glaze 
+glass: class glans gloss grass 
+glaze: blaze glade glare graze 
+gleam: glean 
+glean: clean gleam 
+glide: elide glade guide slide 
+glint: flint 
+gloat: bloat float groat 
+globe: glove 
+gloom: bloom groom 
+glory: 
+gloss: glass gross 
+glove: clove globe grove 
+glued: gluey 
+gluey: glued 
+glyph: 
+gnarl: snarl 
+gnash: 
+gnome: 
+golly: dolly folly gully holly jolly lolly 
+goody: goofy moody woody 
+goofy: goody 
+goose: gorse loose moose noose 
+gorge: forge gorse gouge 
+gorse: goose gorge horse worse 
+gouge: gauge gorge rouge 
+gourd: 
+grace: brace grade grape grate grave graze trace 
+grade: glade grace grape grate grave graze trade 
+graft: craft draft grant kraft 
+grail: frail grain trail 
+grain: brain drain grail groin train 
+grand: brand gland grant grind 
+grant: brant giant graft grand grunt 
+grape: drape grace grade graph grate grave graze gripe grope 
+graph: grape 
+grasp: grass 
+grass: brass crass glass grasp gross 
+grata: grate 
+grate: crate grace grade grape grata grave graze irate orate 
+grave: brave crave grace grade grape grate gravy graze grove 
+gravy: grave 
+graze: craze glaze grace grade grape grate grave 
+great: greet groat treat 
+grebe: 
+greed: breed creed freed green greet 
+green: greed greet preen 
+greet: great greed green 
+grief: brief 
+grill: drill frill trill 
+grime: crime gripe prime 
+grind: grand 
+gripe: grape grime grope tripe 
+grist: wrist 
+groan: groat groin grown 
+groat: gloat great groan grout 
+groin: grain groan grown 
+groom: broom gloom 
+grope: grape gripe grove 
+gross: cross dross gloss grass 
+group: grout 
+grout: groat group trout 
+grove: drove glove grave grope prove 
+growl: grown prowl 
+grown: brown crown drown frown groan groin growl 
+gruff: 
+grunt: brunt gaunt grant 
+guano: 
+guard: 
+guess: guest 
+guest: guess quest 
+guide: glide guile guise 
+guild: build guile guilt 
+guile: guide guild guilt guise 
+guilt: built guild guile quilt 
+guise: guide guile 
+gules: 
+gully: bully dully fully golly sully 
+gumbo: jumbo 
+gummy: dummy mummy rummy 
+gunky: gunny junky punky 
+gunny: bunny funny gunky sunny 
+gusto: gusty 
+gusty: dusty fusty gusto lusty musty rusty 
+gutsy: 
+gypsy: 
+habit: 
+haiku: 
+hairy: dairy fairy harry 
+halma: 
+halve: calve salve valve 
+handy: bandy candy dandy hardy randy sandy 
+happy: hippy pappy sappy 
+hardy: handy harry tardy 
+harem: 
+harry: carry hairy hardy hurry marry parry tarry 
+harsh: marsh 
+haste: baste caste hasty paste taste waste 
+hasty: haste nasty pasty tasty 
+hatch: batch catch hitch hutch latch match patch watch 
+hater: bater cater dater eater later mater pater rater tater water 
+haunt: daunt gaunt taunt vaunt 
+haven: raven 
+havoc: 
+hazel: 
+heady: beady heavy ready 
+heard: beard heart hoard 
+heart: heard 
+heath: death neath 
+heave: heavy leave reave weave 
+heavy: heady heave 
+hedge: hodge ledge sedge wedge 
+hefty: lefty 
+heigh: weigh 
+helix: 
+hello: 
+hence: fence pence 
+henry: 
+heron: 
+hertz: 
+hilly: billy filly holly rilly silly 
+hilum: 
+hinge: binge singe tinge 
+hippo: hippy 
+hippy: happy hippo tippy zippy 
+hitch: bitch ditch hatch hutch pitch witch 
+hoagy: 
+hoard: board heard 
+hobby: bobby hubby lobby 
+hocus: focus locus pocus 
+hodge: dodge hedge lodge podge 
+hogan: 
+holly: dolly folly golly hilly jolly lolly 
+hondo: rondo 
+honey: coney money 
+hooch: pooch 
+horde: horse 
+horny: corny 
+horse: gorse horde house worse 
+hotel: hovel motel 
+hough: bough cough dough rough sough tough 
+hound: bound found mound pound round sound wound 
+house: douse horse louse mouse rouse 
+hovel: hotel hover novel 
+hover: cover hovel 
+howdy: rowdy 
+hubby: hobby 
+human: 
+humid: 
+humus: 
+hunch: bunch hutch lunch munch punch 
+hurry: curry furry harry hurty 
+hurty: hurry 
+husky: dusky 
+hutch: butch hatch hitch hunch 
+hydra: hydro 
+hydro: hydra 
+hyena: 
+hying: dying lying tying vying 
+hymen: 
+ideal: 
+idiom: idiot 
+idiot: idiom 
+idyll: 
+igloo: 
+ileum: 
+iliac: 
+image: 
+imbue: 
+impel: 
+inane: 
+inapt: inept 
+incur: 
+index: 
+inept: inapt inert 
+inert: inept 
+infer: inner inter 
+infix: 
+infra: 
+ingot: 
+inlay: 
+inlet: inset 
+inner: infer inter 
+input: 
+inset: inlet onset 
+inter: enter infer inner 
+inure: 
+ionic: conic monic sonic tonic 
+irate: crate grate orate 
+irony: crony 
+issue: 
+ivory: 
+jazzy: 
+jelly: belly jolly kelly 
+jenny: penny 
+jerky: jerry perky 
+jerry: berry ferry jerky kerry merry terry 
+jewel: newel 
+jiffy: 
+jimmy: 
+joint: point 
+jolly: dolly folly golly holly jelly jowly lolly 
+joule: boule 
+joust: 
+jowly: jolly 
+judge: budge fudge nudge 
+juice: juicy 
+juicy: juice 
+julep: 
+jumbo: gumbo 
+jumpy: dumpy lumpy 
+junco: 
+junky: gunky punky 
+junta: 
+juror: 
+kapok: 
+kappa: tappa 
+karma: 
+kazoo: 
+kelly: belly jelly 
+kerry: berry ferry jerry merry terry 
+ketch: fetch retch vetch 
+keyed: 
+khaki: 
+kinky: 
+kiosk: 
+kitty: ditty nitty witty 
+knack: knick knock snack 
+knead: 
+kneel: knell 
+knell: kneel knelt knoll snell 
+knelt: knell 
+knick: knack knock snick 
+knife: 
+knock: knack knick 
+knoll: knell 
+known: 
+knurl: 
+koala: 
+kodak: 
+kombu: 
+kraft: craft draft graft kraut 
+kraut: kraft 
+kudzu: 
+kulak: 
+label: lapel libel 
+labia: 
+laden: 
+ladle: 
+lager: eager later luger 
+laity: 
+lance: dance 
+lanky: 
+lapel: label 
+lapse: 
+larch: latch lurch march parch 
+large: barge 
+larva: 
+lasso: basso 
+latch: batch catch hatch larch match patch watch 
+later: bater cater dater eater hater lager latex mater pater rater tater water 
+latex: later 
+lathe: bathe lithe 
+latus: lotus 
+laugh: 
+laura: 
+layup: 
+leach: beach leash leech peach reach teach 
+leafy: leaky 
+leaky: leafy peaky 
+leapt: least 
+learn: yearn 
+lease: cease leash least leave tease 
+leash: leach lease least 
+least: beast feast leapt lease leash yeast 
+leave: heave lease reave weave 
+ledge: hedge lodge sedge wedge 
+leech: beech leach 
+leery: veery 
+lefty: hefty lofty 
+legal: regal 
+leggy: 
+lemma: 
+lemon: demon 
+leper: lever 
+levee: level lever 
+level: bevel levee lever revel 
+lever: fever leper levee level never rever sever 
+lewis: 
+libel: label 
+light: eight fight might night right sight tight 
+liken: linen liven 
+lilac: 
+limbo: 
+limit: 
+linen: liken liven 
+lingo: dingo 
+lipid: livid 
+lisle: aisle 
+lithe: lathe tithe withe 
+liven: given liken linen riven 
+livid: lipid vivid 
+livre: 
+loamy: foamy 
+loath: 
+lobar: 
+lobby: bobby hobby 
+local: focal loyal vocal 
+locus: focus hocus lotus pocus 
+lodge: dodge hodge ledge podge 
+loess: 
+lofty: lefty 
+logic: 
+lolly: dolly folly golly holly jolly 
+loose: goose louse moose noose 
+lossy: lousy mossy 
+lotus: latus locus 
+louse: douse house loose lousy mouse rouse 
+lousy: lossy louse mousy 
+lower: power tower 
+loyal: local royal 
+lucid: lurid 
+lucky: 
+lucre: eucre 
+luger: auger lager 
+lumen: rumen 
+lumpy: dumpy jumpy 
+lunar: 
+lunch: bunch hunch lurch lynch munch punch 
+lunge: 
+lurch: larch lunch 
+lurid: lucid 
+lusty: dusty fusty gusty musty rusty 
+lying: dying hying tying vying 
+lymph: nymph 
+lynch: lunch 
+lyric: 
+macho: macro 
+macro: macho micro 
+madam: 
+magic: manic 
+magma: magna mamma 
+magna: magma manna 
+major: manor mayor 
+mambo: 
+mamma: gamma magma 
+mange: manse range 
+mania: manic manna maria 
+manic: magic mania monic panic 
+manna: canna magna mania 
+manor: major mayor minor 
+manse: mange 
+maple: 
+march: larch marsh match parch 
+maria: mania 
+marry: carry harry merry parry tarry 
+marsh: harsh march 
+maser: mater miser 
+mason: meson 
+match: batch catch hatch latch march patch watch 
+mater: bater cater dater eater hater later maser meter pater rater tater water 
+matte: 
+mauve: 
+maxim: 
+maybe: 
+mayor: major manor 
+mayst: 
+mealy: meaty 
+meant: 
+meaty: mealy 
+mecum: tecum 
+medal: metal modal pedal 
+media: medic 
+medic: media 
+melee: 
+melon: felon meson 
+mercy: merry 
+merge: serge verge 
+merit: 
+merry: berry ferry jerry kerry marry mercy terry 
+meson: mason melon 
+messy: mossy 
+metal: fetal medal petal 
+meter: deter mater 
+metro: 
+mezzo: 
+micro: macro 
+midge: ridge 
+midst: 
+might: eight fight light night right sight tight 
+milch: filch mulch zilch 
+milky: silky 
+mimic: 
+mince: since wince 
+minim: 
+minor: manor minot 
+minot: minor 
+minus: sinus 
+mirth: birth girth 
+miser: maser 
+misty: musty 
+mitre: 
+mixup: 
+modal: medal model molal moral nodal 
+model: modal modem monel morel motel yodel 
+modem: model 
+modus: 
+moire: 
+moist: foist 
+molal: modal molar moral 
+molar: molal mylar polar solar 
+mommy: mummy tommy 
+monad: 
+monel: model money morel motel 
+money: coney honey monel 
+monic: conic ionic manic sonic tonic 
+monte: month 
+month: monte mouth 
+moody: goody woody 
+moose: goose loose mouse noose 
+moral: coral modal molal morel mural 
+morel: model monel moral motel 
+moron: boron 
+mossy: lossy messy mousy 
+motel: hotel model monel morel motet 
+motet: motel 
+motif: 
+motor: rotor 
+motto: 
+mould: could mound would 
+mound: bound found hound mould mount pound round sound wound 
+mount: count fount mound 
+mourn: bourn 
+mouse: douse house louse moose mousy rouse 
+mousy: lousy mossy mouse 
+mouth: month south youth 
+movie: 
+mucus: 
+muddy: buddy ruddy 
+muggy: buggy 
+mugho: 
+mulch: milch mulct munch 
+mulct: mulch 
+multi: 
+mummy: dummy gummy mommy rummy 
+munch: bunch hunch lunch mulch punch 
+mural: aural moral rural 
+murky: 
+murre: 
+mushy: bushy musty 
+music: 
+musty: dusty fusty gusty lusty misty mushy rusty 
+mylar: molar 
+mynah: 
+myrrh: 
+nabla: 
+nadir: 
+naiad: 
+naive: waive 
+naked: 
+nasal: basal natal naval 
+nasty: hasty natty pasty tasty 
+natal: fatal nasal naval 
+natty: fatty nasty nitty patty ratty tatty 
+naval: nasal natal navel 
+navel: gavel naval novel ravel 
+neath: death heath 
+needy: reedy seedy weedy 
+nerve: serve verve 
+never: fever lever rever sever 
+newel: jewel 
+niche: fiche 
+niece: piece 
+night: eight fight light might right sight tight 
+ninth: 
+nitty: ditty kitty natty witty 
+noble: 
+nodal: modal 
+noise: noisy noose poise 
+noisy: noise 
+nomad: 
+nonce: 
+noose: goose loose moose noise 
+north: forth worth 
+notch: botch 
+novel: hovel navel 
+nudge: budge fudge judge 
+nurse: curse purse 
+nylon: 
+nymph: lymph 
+oaken: taken waken 
+oases: gases oasis 
+oasis: basis oases 
+obese: 
+objet: 
+occur: 
+ocean: 
+octal: 
+octet: 
+odium: opium 
+offal: 
+offer: 
+often: 
+ohmic: 
+olden: 
+olive: alive 
+omega: 
+onion: anion union 
+onset: inset 
+opera: 
+opine: spine 
+opium: odium 
+optic: 
+orate: crate grate irate ovate 
+orbit: 
+order: 
+organ: 
+osier: 
+other: ether otter 
+otter: other utter 
+ought: 
+ounce: dunce 
+ouvre: 
+ouzel: 
+ovary: 
+ovate: orate 
+overt: avert 
+owing: swing 
+oxeye: 
+oxide: 
+ozone: 
+paddy: caddy daddy 
+padre: cadre 
+paean: pagan 
+pagan: paean 
+paint: faint point print saint taint 
+palsy: pansy 
+pampa: 
+panda: 
+panel: 
+panic: manic 
+pansy: palsy panty tansy 
+panty: pansy party pasty patty 
+papal: papaw pupal 
+papaw: papal 
+paper: caper pater taper 
+pappy: happy peppy poppy puppy sappy 
+parch: larch march patch perch porch 
+parry: carry harry marry party tarry 
+parse: passe pause purse 
+party: panty parry pasty patty warty 
+pasha: 
+passe: parse paste pause posse 
+paste: baste caste haste passe pasty peste taste waste 
+pasty: hasty nasty panty party paste patty tasty 
+patch: batch catch hatch latch match parch pitch watch 
+pater: bater cater dater eater hater later mater paper rater tater water 
+patio: ratio 
+patty: fatty natty panty party pasty petty putty ratty tatty 
+pause: cause parse passe 
+peace: peach pence place 
+peach: beach leach peace perch poach reach teach 
+peaky: leaky perky 
+pearl: 
+pecan: 
+pedal: medal penal petal 
+peepy: peppy 
+penal: pedal petal renal venal 
+pence: fence hence peace 
+penis: 
+penna: penny 
+penny: jenny penna peony 
+peony: penny phony 
+peppy: pappy peepy poppy puppy 
+perch: parch peach porch 
+peril: 
+perky: jerky peaky 
+peste: paste 
+petal: fetal metal pedal penal 
+petit: 
+petri: 
+petty: patty putty 
+pewee: 
+phage: phase 
+phase: chase phage 
+phlox: 
+phone: phony prone shone 
+phony: peony phone 
+photo: 
+phyla: 
+piano: 
+picky: 
+piece: niece 
+piety: diety 
+piggy: 
+pilot: pivot 
+pinch: cinch finch pitch punch winch 
+pinto: 
+pious: 
+pique: 
+pitch: bitch ditch hitch patch pinch witch 
+pithy: withy 
+pivot: pilot 
+pixel: 
+pizza: 
+place: peace plane plate 
+plaid: plain 
+plain: plaid slain 
+plane: place plank plant plate 
+plank: blank clank flank plane plant plunk prank 
+plant: plane plank slant 
+plasm: 
+plate: elate place plane slate 
+playa: plaza 
+plaza: playa 
+plead: pleat 
+pleat: bleat cleat plead 
+pluck: cluck plunk 
+plumb: plume plump 
+plume: plumb plump 
+plump: clump plumb plume slump 
+plunk: flunk plank pluck 
+plush: blush flush 
+poach: coach peach pooch porch pouch roach 
+pocus: focus hocus locus 
+podge: dodge hodge lodge 
+podia: 
+poesy: 
+point: joint paint print 
+poise: noise posse 
+polar: molar solar 
+polio: folio polis 
+polis: polio 
+polka: 
+pooch: hooch poach porch pouch 
+poppy: pappy peppy puppy 
+porch: parch perch poach pooch pouch torch 
+posey: 
+posit: 
+posse: passe poise 
+pouch: couch poach pooch porch touch vouch 
+pound: bound found hound mound round sound wound 
+power: lower tower 
+prank: crank drank frank plank 
+preen: green 
+press: cress dress tress 
+prexy: proxy 
+price: prick pride prime prize 
+prick: brick price trick 
+pride: bride price prime prize 
+prima: prime primp 
+prime: crime grime price pride prima primp prize 
+primp: crimp prima prime 
+print: paint point 
+prior: 
+prism: 
+privy: 
+prize: price pride prime 
+probe: prone prose prove 
+prone: crone drone phone probe prong prose prove prune 
+prong: prone wrong 
+proof: 
+prose: arose probe prone prove 
+proud: 
+prove: drove grove probe prone prose 
+prowl: growl 
+proxy: prexy 
+prune: prone 
+psalm: 
+psych: 
+puffy: 
+pulse: dulse purse 
+punch: bunch hunch lunch munch pinch 
+punky: gunky junky 
+pupal: papal pupil 
+pupil: pupal 
+puppy: pappy peppy poppy 
+purge: purse surge 
+purse: curse nurse parse pulse purge 
+pussy: fussy 
+putty: patty petty rutty 
+pygmy: 
+quack: quark quick 
+quaff: 
+quail: 
+quake: 
+qualm: 
+quark: quack quart quirk 
+quart: quark quirt 
+quash: quasi 
+quasi: quash 
+queen: queer 
+queer: queen 
+quell: quill 
+query: 
+quest: guest 
+queue: 
+quick: quack quirk 
+quiet: quilt quint quirt 
+quill: quell quilt 
+quilt: built guilt quiet quill quint quirt 
+quint: quiet quilt quirt 
+quirk: quark quick quirt 
+quirt: quart quiet quilt quint quirk 
+quite: quote suite 
+quota: quote 
+quote: quite quota 
+rabat: 
+rabbi: 
+rabid: rapid 
+radar: 
+radii: radio radix 
+radio: radii radix ratio 
+radix: radii radio 
+radon: 
+rainy: 
+raise: 
+rajah: 
+rally: dally rilly sally tally wally 
+ranch: 
+randy: bandy candy dandy handy rangy sandy 
+range: mange rangy 
+rangy: randy range tangy 
+rapid: rabid vapid 
+rater: bater cater dater eater hater later mater pater tater water 
+ratio: patio radio 
+ratty: fatty natty patty rutty tatty 
+ravel: gavel navel raven revel 
+raven: haven ravel riven 
+razor: 
+reach: beach leach peach retch roach teach 
+ready: beady heady reedy 
+realm: 
+reave: heave leave reeve weave 
+rebel: repel revel 
+rebut: debut 
+recur: 
+reedy: needy ready seedy weedy 
+reeve: reave 
+refer: defer rever 
+regal: legal renal 
+reign: deign feign 
+relic: 
+reman: beman 
+remit: demit 
+renal: penal regal venal 
+repel: rebel revel 
+resin: 
+retch: fetch ketch reach vetch 
+revel: bevel level ravel rebel repel rever revet 
+rever: fever lever never refer revel revet river sever 
+revet: revel rever rivet 
+rheum: 
+rhino: 
+rhyme: thyme 
+ridge: midge 
+rifle: 
+right: eight fight light might night sight tight 
+rigid: 
+rilly: billy filly hilly rally silly 
+rinse: 
+ripen: risen riven 
+risen: ripen riven 
+risky: 
+rival: 
+riven: given liven raven ripen risen river rivet 
+river: rever riven rivet 
+rivet: civet revet riven river 
+roach: coach poach reach 
+roast: boast coast roost toast 
+robin: 
+robot: 
+rocky: cocky rooky 
+rodeo: 
+rogue: vogue 
+rondo: hondo 
+rooky: booky cooky rocky roomy 
+roomy: rooky 
+roost: boost roast 
+rotor: motor 
+rouge: gouge rough rouse route 
+rough: bough cough dough hough rouge sough tough 
+round: bound found hound mound pound sound wound 
+rouse: douse house louse mouse rouge route 
+route: rouge rouse 
+rowdy: howdy 
+royal: loyal 
+ruddy: buddy muddy 
+rumen: lumen 
+rummy: dummy gummy mummy 
+runic: tunic 
+runty: rusty rutty 
+rupee: 
+rural: aural mural 
+rusty: dusty fusty gusty lusty musty runty rutty 
+rutty: putty ratty runty rusty 
+sable: cable fable gable table 
+sabra: 
+saint: faint paint stint taint 
+salad: 
+sally: dally rally salty silly sully tally wally 
+salon: talon 
+salty: sally silty 
+salve: calve halve salvo solve valve 
+salvo: salve 
+samba: 
+sandy: bandy candy dandy handy randy 
+sappy: happy pappy 
+satan: satin 
+satin: satan 
+satyr: 
+sauce: saucy saute 
+saucy: sauce 
+saute: sauce 
+savoy: savvy 
+savvy: savoy 
+scald: scale scalp scold 
+scale: scald scalp scare shale stale 
+scalp: scald scale scamp scaup 
+scamp: scalp scaup stamp swamp 
+scant: scent slant 
+scare: scale scarf scary score share snare spare stare 
+scarf: scare scary 
+scary: scare scarf 
+scaup: scalp scamp 
+scene: scent 
+scent: scant scene spent 
+scion: 
+scoff: scuff 
+scold: scald 
+scoop: scoot sloop snoop stoop swoop 
+scoot: scoop scout shoot 
+scope: scops score slope 
+scops: scope 
+score: scare scope scorn shore snore spore store swore 
+scorn: acorn score sworn 
+scour: scout 
+scout: scoot scour shout snout spout stout 
+scowl: 
+scram: scrap scrim 
+scrap: scram strap 
+screw: shrew 
+scrim: scram 
+scrub: shrub 
+scuba: 
+scuff: scoff snuff stuff 
+scull: skull 
+seamy: 
+sedan: 
+seder: sever 
+sedge: hedge ledge serge wedge 
+seedy: needy reedy weedy 
+seize: 
+senor: tenor 
+sense: dense tense 
+sepal: 
+sepia: septa 
+septa: sepia 
+serge: merge sedge serve surge verge 
+serif: 
+serum: strum 
+serve: nerve serge servo verve 
+servo: serve 
+setup: 
+seven: sever 
+sever: fever lever never rever seder seven 
+shack: shank shark shock shuck slack smack snack stack whack 
+shade: shady shake shale shame shape share shave spade 
+shady: shade shaky 
+shaft: shift 
+shake: shade shako shaky shale shame shape share shave slake snake stake 
+shako: shake shaky 
+shaky: shady shake shako 
+shale: scale shade shake shall shame shape share shave stale whale 
+shall: shale shawl shell shill small stall 
+shame: shade shake shale shape share shave 
+shank: shack shark stank swank thank 
+shape: shade shake shale shame share shave 
+shard: chard share shark sharp 
+share: scare shade shake shale shame shape shard shark sharp shave shire shore snare spare stare 
+shark: shack shank shard share sharp shirk snark spark stark 
+sharp: shard share shark 
+shave: shade shake shale shame shape share shove slave stave suave 
+shawl: shall 
+sheaf: shear shelf 
+shear: sheaf sheer smear spear swear 
+sheen: sheep sheer sheet 
+sheep: sheen sheer sheet sleep steep sweep 
+sheer: cheer shear sheen sheep sheet sneer steer 
+sheet: sheen sheep sheer skeet sleet sweet 
+sheik: 
+shelf: sheaf shell 
+shell: shall shelf shill smell snell spell swell 
+shied: shred skied 
+shift: shaft shirt swift 
+shill: chill shall shell skill spill still 
+shine: chine shiny shire shone spine swine thine whine 
+shiny: shine spiny 
+shire: share shine shirk shirt shore spire 
+shirk: shark shire shirt smirk 
+shirt: shift shire shirk short skirt 
+shish: swish whish 
+shoal: 
+shock: chock shack shook shuck stock 
+shoji: 
+shone: phone shine shore shove stone 
+shook: shock shoot snook spook 
+shoot: scoot shook short shout 
+shore: chore score share shire shone short shove snore spore store swore whore 
+short: shirt shoot shore shout snort sport 
+shout: scout shoot short snout spout stout 
+shove: shave shone shore stove 
+shown: showy 
+showy: shown snowy 
+shred: shied shrew 
+shrew: screw shred threw 
+shrub: scrub shrug 
+shrug: shrub 
+shuck: chuck shack shock stuck 
+shunt: stunt 
+sibyl: 
+sidle: 
+siege: sieve singe 
+sieve: siege 
+sight: eight fight light might night right tight 
+sigma: 
+silky: milky silly silty sulky 
+silly: billy filly hilly rilly sally silky silty sully 
+silty: salty silky silly sixty 
+since: mince singe wince 
+sinew: 
+singe: binge hinge siege since tinge 
+sinus: minus situs 
+siren: 
+sisal: 
+situs: sinus 
+sixth: sixty 
+sixty: silty sixth 
+skate: slate spate state 
+skeet: sheet sleet sweet 
+skied: shied 
+skiff: sniff stiff 
+skill: shill skull spill still 
+skimp: 
+skirt: shirt 
+skulk: skull skunk 
+skull: scull skill skulk 
+skunk: skulk spunk stunk 
+slack: black flack shack slick smack snack stack 
+slain: plain stain swain 
+slake: flake shake slate slave snake stake 
+slang: clang slant sling slung 
+slant: plant scant slang 
+slash: clash flash slosh smash stash 
+slate: elate plate skate slake slave spate state 
+slave: shave slake slate stave suave 
+sleek: sleep sleet 
+sleep: sheep sleek sleet steep sweep 
+sleet: fleet sheet skeet sleek sleep slept sweet 
+slept: sleet swept 
+slice: slick slide slime spice 
+slick: click flick slack slice snick stick 
+slide: elide glide slice slime 
+slime: clime slice slide slimy 
+slimy: slime 
+sling: cling fling slang slung sting swing 
+sloop: bloop scoop snoop stoop swoop 
+slope: elope scope 
+slosh: slash sloth 
+sloth: cloth slosh sooth 
+slump: clump plump slurp stump 
+slung: clung flung slang sling stung swung 
+slurp: slump 
+smack: shack slack snack stack 
+small: shall smell stall 
+smart: start swart 
+smash: slash stash 
+smear: shear spear swear 
+smell: shell small smelt snell spell swell 
+smelt: smell swelt 
+smile: stile 
+smirk: shirk 
+smith: 
+smoke: smoky spoke stoke 
+smoky: smoke 
+snack: knack shack slack smack snark snick stack 
+snafu: 
+snail: snarl 
+snake: shake slake snare stake 
+snare: scare share snake snark snarl snore spare stare 
+snark: shark snack snare snarl spark stark 
+snarl: gnarl snail snare snark 
+sneak: speak steak 
+sneer: sheer steer 
+snell: knell shell smell spell swell 
+snick: knick slick snack stick 
+sniff: skiff snuff stiff 
+snipe: swipe 
+snook: shook snoop spook 
+snoop: scoop sloop snook stoop swoop 
+snore: score shore snare snort spore store swore 
+snort: short snore snout sport 
+snout: scout shout snort spout stout 
+snowy: showy 
+snuff: scuff sniff stuff 
+soapy: 
+sober: 
+soggy: boggy foggy 
+solar: molar polar sonar 
+solid: 
+solve: salve wolve 
+somal: 
+sonar: solar 
+sonic: conic ionic monic tonic 
+sonny: sunny 
+sooth: booth sloth south tooth 
+sorry: worry 
+sough: bough cough dough hough rough south tough 
+sound: bound found hound mound pound round wound 
+south: mouth sooth sough youth 
+space: apace spade spare spate spice 
+spade: shade space spare spate 
+spare: scare share snare space spade spark spate spire spore stare 
+spark: shark snark spare stark 
+spasm: 
+spate: skate slate space spade spare spite state 
+spawn: 
+speak: sneak spear speck steak 
+spear: shear smear speak swear 
+speck: speak 
+speed: spend steed 
+spell: shell smell snell spill swell 
+spend: speed spent upend 
+spent: scent spend 
+sperm: 
+spice: slice space spicy spike spine spire spite 
+spicy: spice spiky spiny 
+spike: spice spiky spine spire spite spoke 
+spiky: spicy spike spiny 
+spill: shill skill spell spilt still 
+spilt: spill stilt 
+spine: opine shine spice spike spiny spire spite swine 
+spiny: shiny spicy spiky spine 
+spire: shire spare spice spike spine spite spore 
+spite: spate spice spike spine spire spitz suite 
+spitz: spite 
+splat: splay split 
+splay: splat spray 
+split: splat 
+spoil: spool 
+spoke: smoke spike spore stoke 
+spoof: spook spool spoon 
+spook: shook snook spoof spool spoon 
+spool: spoil spoof spook spoon stool 
+spoon: spoof spook spool 
+spore: score shore snore spare spire spoke sport store swore 
+sport: short snort spore spout spurt 
+spout: scout shout snout sport stout 
+spray: splay stray 
+spree: sprue 
+sprig: 
+sprue: spree 
+spume: 
+spunk: skunk stunk 
+spurn: spurt 
+spurt: sport spurn 
+squad: squat squaw squid 
+squat: squad squaw 
+squaw: squad squat 
+squid: squad 
+stack: shack slack smack snack stalk stank stark stick stock stuck 
+staff: stiff stuff 
+stage: stagy stake stale stare state stave swage 
+stagy: stage 
+staid: stain stair stand 
+stain: slain staid stair stein swain 
+stair: staid stain 
+stake: shake slake snake stage stale stare state stave stoke 
+stale: scale shale stage stake stalk stall stare state stave stile stole style 
+stalk: stack stale stall stank stark 
+stall: shall small stale stalk still 
+stamp: scamp stomp stump swamp 
+stand: staid stank 
+stank: shank stack stalk stand stark stink stunk swank 
+staph: stash 
+stare: scare share snare spare stage stake stale stark start state stave store 
+stark: shark snark spark stack stalk stank stare start stork 
+start: smart stare stark swart 
+stash: slash smash staph 
+state: skate slate spate stage stake stale stare stave 
+stave: shave slave stage stake stale stare state stove suave 
+stead: steak steal steam steed 
+steak: sneak speak stead steal steam 
+steal: stead steak steam steel 
+steam: stead steak steal 
+steed: speed stead steel steep steer 
+steel: steal steed steep steer 
+steep: sheep sleep steed steel steer sweep 
+steer: sheer sneer steed steel steep 
+stein: stain stern 
+stern: stein 
+stick: slick snick stack stink stock stuck 
+stiff: skiff sniff staff stuff 
+stile: smile stale still stilt stole style utile 
+still: shill skill spill stall stile stilt 
+stilt: spilt stile still stint 
+sting: sling stink stint stung swing 
+stink: stank stick sting stint stunk 
+stint: saint stilt sting stink stunt 
+stock: shock stack stick stork stuck 
+stoic: 
+stoke: smoke spoke stake stole stone store stove 
+stole: stale stile stoke stone store stove style 
+stomp: stamp stoop stump 
+stone: atone shone stoke stole stony store stove 
+stony: stone story 
+stood: stool stoop 
+stool: spool stood stoop 
+stoop: scoop sloop snoop stomp stood stool strop swoop 
+store: score shore snore spore stare stoke stole stone stork storm story stove swore 
+stork: stark stock store storm story 
+storm: store stork story 
+story: stony store stork storm 
+stout: scout shout snout spout strut 
+stove: shove stave stoke stole stone store 
+strap: scrap straw stray strip strop 
+straw: strap stray 
+stray: spray strap straw 
+strip: strap strop 
+strop: stoop strap strip 
+strum: serum strut 
+strut: stout strum 
+stuck: shuck stack stick stock stunk 
+study: 
+stuff: scuff snuff staff stiff 
+stump: slump stamp stomp 
+stung: slung sting stunk stunt swung 
+stunk: skunk spunk stank stink stuck stung stunt 
+stunt: shunt stint stung stunk 
+style: stale stile stole styli 
+styli: style 
+suave: shave slave stave 
+sugar: 
+suite: quite spite 
+sulfa: 
+sulky: bulky silky sully 
+sully: bully dully fully gully sally silly sulky 
+sumac: 
+sunny: bunny funny gunny sonny 
+super: 
+supra: 
+surge: purge serge 
+sushi: 
+swage: stage 
+swain: slain stain twain 
+swami: swamp 
+swamp: scamp stamp swami 
+swank: shank stank 
+swarm: swart 
+swart: smart start swarm 
+swath: 
+swear: shear smear spear sweat 
+sweat: swear sweet swelt swept 
+sweep: sheep sleep steep sweet 
+sweet: sheet skeet sleet sweat sweep swelt swept 
+swell: dwell shell smell snell spell swelt 
+swelt: dwelt smelt sweat sweet swell swept 
+swept: slept sweat sweet swelt 
+swift: shift 
+swine: shine spine swing swipe twine 
+swing: owing sling sting swine swung 
+swipe: snipe swine 
+swirl: twirl 
+swish: shish swiss 
+swiss: swish 
+swoop: scoop sloop snoop stoop 
+sword: swore sworn 
+swore: score shore snore spore store sword sworn 
+sworn: scorn sword swore 
+swung: slung stung swing 
+synod: 
+syrup: 
+table: cable fable gable sable 
+taboo: 
+tacit: 
+tacky: talky wacky 
+taffy: daffy 
+taint: faint paint saint taunt 
+taken: oaken token waken 
+talky: balky tacky tally 
+tally: dally rally sally talky wally 
+talon: salon 
+talus: 
+tango: tangy 
+tangy: rangy tango tansy 
+tansy: pansy tangy 
+taper: caper paper tapir tater 
+tapir: taper tapis 
+tapis: tapir 
+tappa: kappa 
+tardy: hardy tarry 
+tarry: carry harry marry parry tardy terry 
+taste: baste caste haste paste tasty waste 
+tasty: hasty nasty pasty taste tatty testy 
+tater: bater cater dater eater hater later mater pater rater taper water 
+tatty: fatty natty patty ratty tasty 
+taunt: daunt gaunt haunt taint vaunt 
+tawny: 
+teach: beach leach peach reach 
+tease: cease lease tense terse 
+tecum: mecum 
+teeth: tenth 
+tempo: tempt 
+tempt: tempo 
+tenet: 
+tenon: tenor xenon 
+tenor: senor tenon 
+tense: dense sense tease terse 
+tenth: teeth 
+tepee: 
+tepid: 
+terry: berry ferry jerry kerry merry tarry 
+terse: tease tense verse 
+testy: tasty zesty 
+thank: shank think 
+theft: 
+their: 
+theme: there these thyme 
+there: theme these where 
+these: theme there those 
+theta: 
+thick: chick think trick 
+thief: chief 
+thigh: 
+thine: chine shine thing think twine whine 
+thing: thine think thong tying 
+think: chink thank thick thine thing 
+third: 
+thong: thing 
+thorn: 
+those: chose these whose 
+three: threw 
+threw: shrew three throw 
+throb: throw 
+throw: threw throb 
+thrum: 
+thumb: thump 
+thump: chump thumb trump 
+thyme: rhyme theme 
+tibet: 
+tibia: 
+tidal: 
+tiger: 
+tight: eight fight light might night right sight 
+tilde: 
+tilth: filth 
+timid: 
+tinge: binge hinge singe 
+tippy: hippy tipsy zippy 
+tipsy: tippy 
+tithe: lithe title withe 
+title: tithe 
+toady: 
+toast: boast coast roast 
+today: 
+token: taken 
+tommy: mommy 
+tonal: total 
+tonic: conic ionic monic sonic topic toxic tunic 
+tooth: booth sooth 
+topaz: 
+topic: tonic toxic typic 
+torah: torch 
+torch: porch torah touch 
+torso: 
+torus: 
+total: tonal 
+totem: 
+touch: couch pouch torch tough vouch 
+tough: bough cough dough hough rough sough touch 
+towel: bowel dowel tower vowel 
+tower: lower power towel 
+toxic: tonic topic toxin 
+toxin: toxic 
+trace: brace grace track tract trade truce 
+track: crack trace tract trick truck wrack 
+tract: bract trace track trait 
+trade: grade trace 
+trail: frail grail train trait trawl 
+train: brain drain grain trail trait twain 
+trait: tract trail train 
+tramp: cramp trump 
+trash: brash crash 
+trawl: brawl crawl drawl trail 
+tread: bread dread treat trend triad 
+treat: great tread 
+trend: tread 
+tress: cress dress press truss 
+triac: triad trial 
+triad: tread triac trial tried 
+trial: triac triad trill 
+tribe: bribe tripe trite 
+trick: brick prick thick track truck 
+tried: cried dried fried triad 
+trill: drill frill grill trial troll twill 
+tripe: gripe tribe trite 
+trite: tribe tripe write 
+troll: droll trill 
+troop: droop 
+trout: grout 
+truce: trace truck 
+truck: track trick truce trunk 
+truly: 
+trump: crump thump tramp 
+trunk: drunk truck 
+truss: tress trust 
+trust: crust truss 
+truth: 
+tulip: 
+tulle: tuple 
+tunic: runic tonic 
+tuple: tulle 
+turvy: 
+tutor: 
+twain: swain train 
+tweak: 
+tweed: 
+twice: twine 
+twill: trill twirl 
+twine: swine thine twice 
+twirl: swirl twill 
+twist: 
+tying: dying hying lying thing vying 
+typic: topic 
+ulcer: 
+ultra: 
+umber: amber ember 
+umbra: 
+unary: 
+uncle: 
+under: 
+unify: unity 
+union: anion onion 
+unite: unity 
+unity: unify unite 
+until: 
+upend: spend 
+upper: 
+upset: 
+urban: 
+urine: brine 
+usage: 
+usher: 
+usual: 
+usurp: usury 
+usury: usurp 
+utile: stile 
+utter: otter 
+vacua: vacuo 
+vacuo: vacua 
+vague: value vogue 
+valet: 
+valid: vapid 
+value: vague valve 
+valve: calve halve salve value 
+vapid: rapid valid 
+vault: fault vaunt 
+vaunt: daunt gaunt haunt taunt vault 
+veery: leery 
+velar: 
+veldt: 
+venal: penal renal 
+venom: 
+verge: merge serge verse verve 
+versa: verse 
+verse: terse verge versa verve 
+verve: nerve serve verge verse 
+vetch: fetch ketch retch 
+vicar: 
+video: 
+vigil: 
+villa: viola 
+vinyl: 
+viola: villa 
+virus: 
+visit: 
+visor: 
+vista: 
+vitae: vital 
+vital: vitae 
+vitro: 
+vivid: livid 
+vixen: 
+vocal: focal local 
+vogue: rogue vague 
+voice: 
+vomit: 
+vouch: couch pouch touch 
+vowel: bowel dowel towel 
+vying: dying hying lying tying 
+wacke: wacky 
+wacky: tacky wacke 
+wafer: water 
+waist: wrist 
+waive: naive 
+waken: oaken taken waxen 
+wally: dally rally sally tally 
+waltz: 
+warty: party 
+washy: wishy 
+waste: baste caste haste paste taste 
+watch: batch catch hatch latch match patch witch 
+water: bater cater dater eater hater later mater pater rater tater wafer 
+waxen: waken 
+weary: 
+weave: heave leave reave 
+weber: 
+wedge: hedge ledge sedge 
+weedy: needy reedy seedy 
+weigh: heigh 
+weird: 
+welsh: 
+whack: shack wrack 
+whale: shale while whole 
+wharf: 
+wheat: cheat 
+wheel: 
+whelk: whelm whelp 
+whelm: whelk whelp 
+whelp: whelk whelm 
+where: there whore 
+which: whish 
+whiff: 
+while: whale whine white whole 
+whine: chine shine thine while white 
+whirl: 
+whish: shish which whisk 
+whisk: whish 
+white: while whine write 
+whole: whale while whore whose 
+whoop: 
+whore: chore shore where whole whose 
+whose: chose those whole whore 
+widen: 
+widow: 
+width: 
+wield: field yield 
+wince: mince since winch 
+winch: cinch finch pinch wince witch 
+windy: 
+wishy: fishy washy wispy withy 
+wispy: wishy 
+witch: bitch ditch hitch pitch watch winch 
+withe: lithe tithe withy 
+withy: pithy wishy withe witty 
+witty: ditty kitty nitty withy 
+wolve: solve 
+woman: women 
+women: woman woven 
+woody: goody moody wordy 
+wordy: woody wormy worry 
+world: would 
+wormy: wordy worry 
+worry: sorry wordy wormy 
+worse: gorse horse worst 
+worst: worse 
+worth: forth north 
+would: could mould world wound 
+wound: bound found hound mound pound round sound would 
+woven: coven women 
+wrack: crack track whack wreck 
+wrath: 
+wreak: break creak freak wreck 
+wreck: wrack wreak 
+wrest: crest wrist 
+wring: bring wrong 
+wrist: grist waist wrest 
+write: trite white wrote 
+wrong: prong wring 
+wrote: write 
+xenon: tenon 
+xerox: 
+xylem: 
+yacht: 
+yearn: learn 
+yeast: beast feast least 
+yield: field wield 
+yodel: model yokel 
+yokel: yodel 
+young: 
+youth: mouth south 
+yucca: 
+zazen: 
+zebra: 
+zesty: testy 
+zilch: filch milch 
+zippy: hippy tippy 
+zloty: 
+

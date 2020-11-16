@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SET",
+            "request": "launch",
+            "mainClass": "SET",
+            "projectName": "temp_72ed65cd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ST",
+            "request": "launch",
+            "mainClass": "ST",
+            "projectName": "temp_72ed65cd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WordLadder",
+            "request": "launch",
+            "mainClass": "WordLadder",
+            "projectName": "temp_72ed65cd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BST",
+            "request": "launch",
+            "mainClass": "BST",
+            "projectName": "temp_72ed65cd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - quicksort",
+            "request": "launch",
+            "mainClass": "quicksort",
+            "projectName": "temp_72ed65cd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Divide",
+            "request": "launch",
+            "mainClass": "Divide",
+            "projectName": "temp_72ed65cd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Power",
+            "request": "launch",
+            "mainClass": "Power",
+            "projectName": "temp_72ed65cd"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Permutation<temp_72ed65cd>",
+            "request": "launch",
+            "mainClass": "Permutation",
+            "projectName": "temp_72ed65cd"
+        }
+    ]
+}
