@@ -43,10 +43,10 @@
  *  <i>Computer Science: An Interdisciplinary Approach</i>
  *  by Robert Sedgewick and Kevin Wayne.
  */
-public class Graph {
+public class Graph<K extends Comparable<K>> {
 
     // symbol table: key = string vertex, value = set of neighboring vertices
-    private ST<String, SET<String>> st;
+    private ST<K, SET<K>> st;
 
     // number of edges
     private int E;
@@ -55,7 +55,7 @@ public class Graph {
      * Initializes an empty graph with no vertices or edges.
      */
     public Graph() {
-        st = new ST<String, SET<String>>();
+        st = new ST<K, SET<K>>();
     }
 
    /**
@@ -95,7 +95,7 @@ public class Graph {
     }
 
     // throw an exception if v is not a vertex
-    private void validateVertex(String v) {
+    private void validateVertex(K v) {
         if (!hasVertex(v)) throw new IllegalArgumentException(v + " is not a vertex");
     }
 
@@ -106,7 +106,7 @@ public class Graph {
      * @return the degree of {@code v} in this graph
      * @throws IllegalArgumentException if {@code v} is not a vertex in this graph
      */
-    public int degree(String v) {
+    public int degree(K v) {
         validateVertex(v);
         return st.get(v).size();
     }
@@ -117,7 +117,7 @@ public class Graph {
      * @param  v one vertex in the edge
      * @param  w the other vertex in the edge
      */
-    public void addEdge(String v, String w) {
+    public void addEdge(K v, K w) {
         if (!hasVertex(v)) addVertex(v);
         if (!hasVertex(w)) addVertex(w);
         if (!hasEdge(v, w)) E++;
@@ -130,8 +130,8 @@ public class Graph {
      *
      * @param  v the vertex
      */
-    public void addVertex(String v) {
-        if (!hasVertex(v)) st.put(v, new SET<String>());
+    public void addVertex(K v) {
+        if (!hasVertex(v)) st.put(v, new SET<K>());
     }
 
 
@@ -140,7 +140,7 @@ public class Graph {
      *
      * @return the set of vertices in this graph
      */
-    public Iterable<String> vertices() {
+    public Iterable<K> vertices() {
         return st.keys();
     }
 
@@ -151,7 +151,7 @@ public class Graph {
      * @return the set of vertices adjacent to vertex {@code v} in this graph
      * @throws IllegalArgumentException if {@code v} is not a vertex in this graph
      */
-    public Iterable<String> adjacentTo(String v) {
+    public Iterable<K> adjacentTo(K v) {
         validateVertex(v);
         return st.get(v);
     }
@@ -163,7 +163,7 @@ public class Graph {
      * @return {@code true} if {@code v} is a vertex in this graph,
      *         {@code false} otherwise
      */
-    public boolean hasVertex(String v) {
+    public boolean hasVertex(K v) {
         return st.contains(v);
     }
 
@@ -177,7 +177,7 @@ public class Graph {
      * @throws IllegalArgumentException if either {@code v} or {@code w}
      *         is not a vertex in this graph
      */
-    public boolean hasEdge(String v, String w) {
+    public boolean hasEdge(K v, K w) {
         validateVertex(v);
         validateVertex(w);
         return st.get(v).contains(w);
@@ -190,9 +190,9 @@ public class Graph {
      */
     public String toString() {
         StringBuilder s = new StringBuilder();
-        for (String v : st) {
+        for (K v : st) {
             s.append(v + ": ");
-            for (String w : st.get(v)) {
+            for (K w : st.get(v)) {
                 s.append(w + " ");
             }
             s.append('\n');

@@ -1,16 +1,17 @@
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
+import java.util.LinkedList;
 import java.util.Scanner;
 
 public class WordLadder {
     private String[] words = new String[2500];
     private int size = 0;
-    private Graph wordsGraph = new Graph();
+    private Graph<String> wordsGraph = new Graph<String>();
 
     public static void main(String[] args) {
         WordLadder ladder = new WordLadder();
-        ladder.readWords(new File("d:/temp/words5.txt"));
+        ladder.readWords(new File("d:/temp/temp-ds/words5.txt"));
         ladder.createGraph();
         //System.out.println(ladder.size());
         // try (PrintWriter pw = new PrintWriter("d:/temp/words5_graph.txt")) {
@@ -18,12 +19,19 @@ public class WordLadder {
         // } catch (Exception e) {
         //     System.out.println(e.toString());
         // }
-        try(PrintWriter pw = new PrintWriter("d:/temp/words5_nonLadder.txt")){
-            for(String s : ladder.getNonLadderLink())
-                pw.println(s);
-        } catch(Exception e){
-            System.out.println(e.getMessage());
+        // try(PrintWriter pw = new PrintWriter("d:/temp/words5_nonLadder.txt")){
+        //     for(String s : ladder.getNonLadderLink())
+        //         pw.println(s);
+        // } catch(Exception e){
+        //     System.out.println(e.getMessage());
+        // }
+        LinkedList<String> path = new PathFinder<String>(ladder.getGraph()).getPath("green", "brown");
+        if(path == null){
+            System.out.println("no connected.");
+            return;
         }
+        for(String s : path)
+            System.out.println(s);
     }
 
     public void readWords(File fileName) {
@@ -56,7 +64,7 @@ public class WordLadder {
             }
         }
     }
-    public Graph getGraph(){
+    public Graph<String> getGraph(){
         return wordsGraph;
     }
     public SET<String> getNonLadderLink(){
