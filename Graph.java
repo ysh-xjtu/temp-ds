@@ -46,6 +46,7 @@
 public class Graph<K extends Comparable<K>> {
 
     // symbol table: key = string vertex, value = set of neighboring vertices
+    // 图是用邻接表的方式存储的
     private ST<K, SET<K>> st;
 
     // number of edges
@@ -199,34 +200,5 @@ public class Graph<K extends Comparable<K>> {
         }
         return s.toString();
     }
-
-   /**
-     * Unit tests the {@code Graph} data type.
-     *
-     * @param args the command-line arguments
-     */
-    // public static void main(String[] args) {
-
-    //     // create graph
-    //     Graph graph = new Graph();
-    //     while (!StdIn.isEmpty()) {
-    //         String v = StdIn.readString();
-    //         String w = StdIn.readString();
-    //         graph.addEdge(v, w);
-    //     }
-
-    //     // print out graph
-    //     StdOut.println(graph);
-
-    //     // print out graph again by iterating over vertices and edges
-    //     for (String v : graph.vertices()) {
-    //         StdOut.print(v + ": ");
-    //         for (String w : graph.adjacentTo(v)) {
-    //             StdOut.print(w + " ");
-    //         }
-    //         StdOut.println();
-    //     }
-
-    // }
 
 }

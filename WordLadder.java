@@ -6,12 +6,12 @@ import java.util.Scanner;
 
 public class WordLadder {
     private String[] words = new String[2500];
-    private int size = 0;
+    private int size = 0; //记录图中顶点的个数，也就是单词的数量
     private Graph<String> wordsGraph = new Graph<String>();
 
     public static void main(String[] args) {
         WordLadder ladder = new WordLadder();
-        ladder.readWords(new File("d:/temp/temp-ds/words5.txt"));
+        ladder.readWords(new File("d:/temp-ds/words5.txt"));
         ladder.createGraph();
         //System.out.println(ladder.size());
         // try (PrintWriter pw = new PrintWriter("d:/temp/words5_graph.txt")) {
@@ -31,7 +31,21 @@ public class WordLadder {
             return;
         }
         for(String s : path)
-            System.out.println(s);
+            System.out.print(s + " -> ");
+        System.out.println();
+
+        LinkedList<LinkedList<String>> paths = new PathFinder<String>(ladder.getGraph()).getAllPath("green", "brown");
+        if(paths == null){
+            System.out.println("no connected");
+            return;
+        }
+        for(LinkedList<String> p : paths)
+        {
+            for(String s : p)
+                System.out.print(s + " -> ");
+            System.out.println();
+        }
+
     }
 
     public void readWords(File fileName) {
@@ -67,6 +81,7 @@ public class WordLadder {
     public Graph<String> getGraph(){
         return wordsGraph;
     }
+    //获得图中那些出度数为0的顶点，这些顶点对应的单词也是和单词列表中其他单词无法构成字梯的单词
     public SET<String> getNonLadderLink(){
         SET<String> nonLadderLinkWords = new SET<String>();
         for(String vertex : wordsGraph.vertices())
@@ -74,6 +89,7 @@ public class WordLadder {
                 nonLadderLinkWords.add(vertex);
         return nonLadderLinkWords;
     }
+    //判断两个单词是否只有一个字母的差异
     private boolean _isNeighbour(String word1, String word2) {
         int different = 0;
         if (word1.length() != word2.length())

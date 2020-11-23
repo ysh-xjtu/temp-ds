@@ -9,6 +9,13 @@
             "name": "CodeLens (Launch) - WordLadder",
             "request": "launch",
             "mainClass": "WordLadder",
+            "projectName": "temp-ds_383a608f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WordLadder",
+            "request": "launch",
+            "mainClass": "WordLadder",
             "projectName": "temp-ds_adbc76e6"
         },
         {
