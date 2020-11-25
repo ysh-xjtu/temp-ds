@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - WordLadderData",
+            "request": "launch",
+            "mainClass": "WordLadderData",
+            "projectName": "temp-ds_383a608f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WordLadderGame",
+            "request": "launch",
+            "mainClass": "WordLadderGame",
+            "projectName": "temp-ds_383a608f"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - WordLadder",
             "request": "launch",
             "mainClass": "WordLadder",

@@ -1,75 +1,63 @@
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.PrintWriter;
 import java.util.LinkedList;
 import java.util.Scanner;
 
-public class WordLadder {
+public class WordLadder{
     private String[] words = new String[2500];
     private int size = 0; //记录图中顶点的个数，也就是单词的数量
     private Graph<String> wordsGraph = new Graph<String>();
-
-    public static void main(String[] args) {
-        WordLadder ladder = new WordLadder();
-        ladder.readWords(new File("d:/temp-ds/words5.txt"));
-        ladder.createGraph();
-        //System.out.println(ladder.size());
-        // try (PrintWriter pw = new PrintWriter("d:/temp/words5_graph.txt")) {
-        //     pw.println(ladder.getGraph().toString());
-        // } catch (Exception e) {
-        //     System.out.println(e.toString());
-        // }
-        // try(PrintWriter pw = new PrintWriter("d:/temp/words5_nonLadder.txt")){
-        //     for(String s : ladder.getNonLadderLink())
-        //         pw.println(s);
-        // } catch(Exception e){
-        //     System.out.println(e.getMessage());
-        // }
-        LinkedList<String> path = new PathFinder<String>(ladder.getGraph()).getPath("green", "brown");
-        if(path == null){
-            System.out.println("no connected.");
-            return;
-        }
-        for(String s : path)
-            System.out.print(s + " -> ");
-        System.out.println();
-
-        LinkedList<LinkedList<String>> paths = new PathFinder<String>(ladder.getGraph()).getAllPath("green", "brown");
-        if(paths == null){
-            System.out.println("no connected");
-            return;
-        }
-        for(LinkedList<String> p : paths)
-        {
-            for(String s : p)
-                System.out.print(s + " -> ");
-            System.out.println();
-        }
-
+    private PathFinder<String> pathFinder = null;
+    public WordLadder(String fileName){
+        readWords(new File(fileName));
+        createGraph();
     }
-
-    public void readWords(File fileName) {
+    public LinkedList<String> getPath(String from, String to)
+    {
+        if(pathFinder == null) pathFinder = new PathFinder<String>(this.wordsGraph);
+        return pathFinder.getPath(from, to);
+    }
+    public LinkedList<LinkedList<String>> getAllPath(String from, String to)
+    {
+        if(pathFinder == null) pathFinder = new PathFinder<String>(this.wordsGraph);
+        return pathFinder.getAllPath(from, to);
+    }
+    public int getShortestLength(String from, String to)
+    {
+        return pathFinder.getShortestLength(from, to);
+    }
+    private void readWords(File fileName) {
         Scanner sc = null;
         int i = 0;
-        try {
+        try 
+        {
             sc = new Scanner(fileName);
             while (sc.hasNextLine()) {
                 words[i++] = sc.nextLine();
             }
-        } catch (FileNotFoundException e) {
+        } 
+        catch (FileNotFoundException e) 
+        {
             System.out.println("The file: " + fileName + " is not found.");
-        } catch (Exception e) {
+        } 
+        catch (Exception e) 
+        {
             System.out.println("some other io operations error occured." + e.toString());
-        } finally {
-            try {
+        } 
+        finally 
+        {
+            try 
+            {
                 size = i;
                 sc.close();
-            } catch (Exception e) {
+            } 
+            catch (Exception e) 
+            {
                 System.out.println("Can't close this file.");
             }
         }
     }
-    public void createGraph(){
+    private void createGraph(){
         for (int i = 0; i < size(); i++){
             wordsGraph.addVertex(words[i]);
             for (int j = i + 1; j < size(); j++) {
@@ -90,7 +78,7 @@ public class WordLadder {
         return nonLadderLinkWords;
     }
     //判断两个单词是否只有一个字母的差异
-    private boolean _isNeighbour(String word1, String word2) {
+    public boolean isNeighbour(String word1, String word2) {
         int different = 0;
         if (word1.length() != word2.length())
             return false;
@@ -106,7 +94,7 @@ public class WordLadder {
     }
 
     public boolean isNeighbour(int i, int j) {
-        return _isNeighbour(words[i], words[j]);
+        return isNeighbour(words[i], words[j]);
     }
 
     public String getWords(int index) {
@@ -115,6 +103,10 @@ public class WordLadder {
 
     public int size() {
         return size;
+    }
+    public String getPosWord(int i){
+        if( i<0 && i>=size) return null;
+        return words[i];
     }
 
 }

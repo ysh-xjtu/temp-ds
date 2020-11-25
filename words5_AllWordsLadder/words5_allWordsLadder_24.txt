@@ -1,0 +1,12 @@
+yeast -----> youth(SL:11)
+yeast -> least -> leash -> leach -> peach -> poach -> coach -> couch -> cough -> sough -> south -> youth
+yeast -----> zesty(SL:17)
+yeast -> least -> lease -> tease -> terse -> verse -> verge -> serge -> surge -> purge -> purse -> parse -> passe -> paste -> pasty -> tasty -> testy -> zesty
+yeast -----> zilch(SL:10)
+yeast -> least -> leash -> leach -> beach -> bench -> bunch -> munch -> mulch -> milch -> zilch
+yodel -----> yokel(SL:1)
+yodel -> yokel
+youth -----> zesty(SL:17)
+youth -> south -> sough -> rough -> rouge -> rouse -> louse -> loose -> noose -> noise -> poise -> posse -> passe -> paste -> pasty -> tasty -> testy -> zesty
+youth -----> zilch(SL:9)
+youth -> south -> sough -> cough -> couch -> conch -> cinch -> finch -> filch -> zilch

@@ -4,7 +4,7 @@ import java.util.TreeMap;
 public class PathFinder<K extends Comparable<K>> {
     Graph<K> graph;
     TreeMap<K, Boolean> marked;
-    int shortestLength = -1;
+    int shortestLength = 0; //使用BFS的方式，记录所求两个单词之间的最短词梯的路径长度
     int currentLength = 0;
 
     public PathFinder(Graph<K> graph) {
@@ -30,7 +30,10 @@ public class PathFinder<K extends Comparable<K>> {
         }
         return path;
     }
-
+    public int getShortestLength(K from, K to){
+        getPath(from, to);
+        return shortestLength;
+    }
     private boolean _getPath(TreeMap<K, K> fatherVertex, K from, K to) {
         LinkedList<K> queue = new LinkedList<K>();
         boolean isConnected = false;
@@ -62,21 +65,19 @@ public class PathFinder<K extends Comparable<K>> {
         return paths;
     }
 
-    public boolean _getAllPath(LinkedList<LinkedList<K>> paths, K from, K to){
+    private boolean _getAllPath(LinkedList<LinkedList<K>> paths, K from, K to){
         TreeMap<K, K> fatherVertex = new TreeMap<K, K>();
         //通过调用_getPath方法，借助于BFS能够确认两个单词之间的最短路径长度,将该长度记录在成员变量：shortestLength中，同时也可以确定是否有路径可达
-        shortestLength = 0;
         if(getPath(from, to) == null) return false;
         for (K s : graph.vertices())
-        marked.put(s, false);
-
-        System.out.println(shortestLength);
+            marked.put(s, false);
+        //currentLength用来记录使用DFS进行路径探索过程中当前的路径长度
         currentLength = 0;
         _getAllPathDFS(paths, fatherVertex, from, to);
         return true;
     }
 
-    public void _getAllPathDFS(LinkedList<LinkedList<K>> paths, TreeMap<K, K> fatherVertex, K current, K to) {
+    private void _getAllPathDFS(LinkedList<LinkedList<K>> paths, TreeMap<K, K> fatherVertex, K current, K to) {
         marked.put(current, true);
         if (current.compareTo(to) == 0) {
             LinkedList<K> path = new LinkedList<K>();
@@ -87,7 +88,6 @@ public class PathFinder<K extends Comparable<K>> {
                 cur = fatherVertex.get(cur);
             }
             paths.addFirst(path);
-            System.out.println(path);
             return;
         }
         for (K vertex : graph.adjacentTo(current)) {
@@ -95,9 +95,8 @@ public class PathFinder<K extends Comparable<K>> {
             {
                 fatherVertex.put(vertex, current);
                 currentLength++;
+                //使用currentLength和shortestLength的比较，凡是超过最短路径的词链均忽略
                 if(currentLength <= shortestLength) _getAllPathDFS(paths, fatherVertex, vertex, to);  
-                //_getAllPathDFS(paths, fatherVertex, vertex, to);
-                //System.out.println(currentLength);
                 currentLength--;
                 marked.put(vertex, false);  
             }          
